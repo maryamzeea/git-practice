@@ -45,7 +45,7 @@ Understanding repositories, commits, branches, pushing, pulling, and managing pr
 
 ## Author
 
-**Maryam**
+**Maryam Zia**
 
 Student of Artificial Intelligence
 
